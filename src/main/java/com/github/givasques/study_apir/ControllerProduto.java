@@ -29,7 +29,7 @@ public class ControllerProduto {
 
     @DeleteMapping
     public ResponseEntity <Void> delete() {
-        return ResponseEntity.status(200).build();
+        return ResponseEntity.status(204).build();
     }
 
 }
