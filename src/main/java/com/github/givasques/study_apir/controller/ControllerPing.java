@@ -1,4 +1,4 @@
-package com.github.givasques.study_apir;
+package com.github.givasques.study_apir.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
